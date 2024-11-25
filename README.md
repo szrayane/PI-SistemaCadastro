@@ -55,7 +55,10 @@ Os protótipos das interfaces do sistema foram desenvolvidos com base nos diagra
 
 ## Contribuidores
 
-- [@szrayane](https://github.com/szrayane) - Protótipo Pessoa Jurídica
-- [@algumacoisa2](https://github.com/AlgumaCoisa2) - Protótipo Pessoa Física & Alunos
-- [@diiogoo01](https://github.com/Diiogoo01) - Protótipo Fornecedores
-- [@vv1ll14n](https://github.com/vv1ll14n) - Protótipo Professores
+## Contribuidores
+
+- ![@szrayane's Profile Picture](https://avatars.githubusercontent.com/u/133218648?v=4) [@szrayane](https://github.com/szrayane) - Protótipo Pessoa Jurídica
+- ![@algumacoisa2's Profile Picture](https://avatars.githubusercontent.com/u/24212875?v=4) [@algumacoisa2](https://github.com/AlgumaCoisa2) - Protótipo Pessoa Física & Alunos
+- ![@diiogoo01's Profile Picture](https://avatars.githubusercontent.com/u/179049313?v=4) [@diiogoo01](https://github.com/Diiogoo01) - Protótipo Fornecedores
+- ![@vv1ll14n's Profile Picture](https://avatars.githubusercontent.com/u/112718929?v=4) [@vv1ll14n](https://github.com/vv1ll14n) - Protótipo Professores
+
