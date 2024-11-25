@@ -53,12 +53,17 @@ Os protótipos das interfaces do sistema foram desenvolvidos com base nos diagra
 - Protótipo do **Cadastro de Professores**  
 ![Protótipo Cadastro de Professores](https://github.com/szrayane/PI-SistemaCadastro/blob/main/Cadastro%20professores.png)
 
-## Contribuidores
 
-## Contribuidores
-
-- ![@szrayane's Profile Picture](https://avatars.githubusercontent.com/u/133218648?v=4) [@szrayane](https://github.com/szrayane) - Protótipo Pessoa Jurídica
-- ![@algumacoisa2's Profile Picture](https://avatars.githubusercontent.com/u/24212875?v=4) [@algumacoisa2](https://github.com/AlgumaCoisa2) - Protótipo Pessoa Física & Alunos
-- ![@diiogoo01's Profile Picture](https://avatars.githubusercontent.com/u/179049313?v=4) [@diiogoo01](https://github.com/Diiogoo01) - Protótipo Fornecedores
-- ![@vv1ll14n's Profile Picture](https://avatars.githubusercontent.com/u/112718929?v=4) [@vv1ll14n](https://github.com/vv1ll14n) - Protótipo Professores
-
+## <strong>Contribuidores</strong>
+<table align="left">
+  <tr>
+    <td align="center"> <img src="https://avatars.githubusercontent.com/u/133218648?v=4" width=175/></br><a href="https://github.com/szrayane">Rayane Souza</a> - Protótipo Pessoa Jurídica
+   </td>
+   <td align="center"> <img src="https://avatars.githubusercontent.com/u/24212875?v=4" width=175/></br><a href="https://github.com/AlgumaCoisa2">Alguma Coisa 2</a> - Protótipo Pessoa Física & Alunos
+   </td>
+   <td align="center"> <img src="https://avatars.githubusercontent.com/u/179049313?v=4" width=175/></br><a href="https://github.com/Diiogoo01">Diogo</a> - Protótipo Fornecedores
+   </td>
+   <td align="center"> <img src="https://avatars.githubusercontent.com/u/112718929?v=4" width=175/></br><a href="https://github.com/vv1ll14n">VV1LL14N</a> - Protótipo Professores
+   </td>
+  </tr>
+</table>
